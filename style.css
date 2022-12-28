@@ -1,0 +1,7 @@
+.link-mail{
+    color: blue
+  }
+
+  .link-mail:hover {
+    color: red;
+  }
